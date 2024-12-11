@@ -1,5 +1,4 @@
 ﻿#undef DEBUG
-//...Scaffold-DbContext "Server=localhost;TrustServerCertificate=True;Database=test_vacancies_db;User=sa;Password=113322Qq__;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DB_Models
 using System;
 using System.Net.Http;
 using System.Threading.Tasks;
